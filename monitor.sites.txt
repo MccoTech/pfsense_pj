@@ -1,0 +1,4 @@
+# Create the porn_sites.txt file and add domains
+echo "example-pornsite1.com" > porn_sites.txt
+echo "example-pornsite2.com" >> porn_sites.txt
+# Add more domains as needed
